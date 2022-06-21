@@ -1,13 +1,15 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: How It All Started
+author: Meauma13
+email: auma1@live.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am an aspiring professional software and web developer. I started my programming career with Visual Basic in school, progressed to C#, then PHP (CodeIgniter, 
+Laravel), HTML, CSS, Bootstrap, JavaScript. Working with these programming languages self-taught, also exposed me to DBMS such as Oracle, MS SQL, and MySQL. I have practical experience in all these aforementioned software systems though not on real'world use cases, but I can put in my grind to produce needed results. Currently, I am gaining some traction with Node.js (APIs) which I enrolled for in the just concluded Side Hustle 5.0 Internship Programme; and also halfway through an ongoing Web 3.0/Frontend/Solidity/Blockchain Development Program on Discord.
+
+With my passion for technology, and a willingness to learn and become better at what I do, I believe I will be a good fit for such roles in any organization.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: www.twitter.com/Xquite # DO NOT include the @ character, or else the build will fail!
+github_username:  www.github.com/Meauma13 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
